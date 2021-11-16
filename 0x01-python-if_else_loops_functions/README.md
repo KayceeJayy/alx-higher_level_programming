@@ -1,0 +1,1 @@
+*This directory contains codes for the 0x02 python project*
