@@ -1,0 +1,1 @@
+**This directory contains python codes on Simple Data Structures: Lists and Tuples**
